@@ -1,6 +1,6 @@
 {
   "name": "random-in-range",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "get a random number in a given range",
   "main": "index.js",
   "scripts": {
