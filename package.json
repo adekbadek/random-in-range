@@ -1,0 +1,16 @@
+{
+  "name": "random-in-range",
+  "version": "1.0.0",
+  "description": "get a random number in a given range",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "math",
+    "random",
+    "range"
+  ],
+  "author": "Adam Borowski",
+  "license": "ISC"
+}
